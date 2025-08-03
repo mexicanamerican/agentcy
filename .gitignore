@@ -16,3 +16,4 @@ imgs/*
 scrape.py
 ui/
 __pycache__
+archive/*

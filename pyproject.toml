@@ -1,0 +1,17 @@
+[project]
+name = "agentcy"
+version = "2.0.0"
+description = "Multi-Agent Creative Collaboration Platform - Modernized with AG2"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ag2[openai]>=0.9.7",
+    "beautifulsoup4>=4.12.0",
+    "requests>=2.31.0",
+    "python-dotenv>=1.1.1",
+    "html2text>=2024.2.26",
+    "selenium>=4.15.0",
+    "webdriver-manager>=4.0.0",
+    "replicate>=0.15.0",
+    "tqdm>=4.66.0",
+]
